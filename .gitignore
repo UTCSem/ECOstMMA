@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Environment
+.env
+*.env
+venv/
+.venv/
+
+# Docker
+*.pid
+*.sock
+*.log
+.docker/
+
+# IDE
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Node (если есть фронтенд)
+node_modules/
+dist/
+build/
